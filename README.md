@@ -50,11 +50,11 @@ Always exploring Machine Learning, Deep Learning, and Generative AI.
 ## 🌟 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arjunsingh-7&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryancsegithub&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunsingh-7&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryancsegithub&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 
@@ -66,11 +66,11 @@ Always exploring Machine Learning, Deep Learning, and Generative AI.
   <table>
     <tr>
       <td align="center" style="padding:10px;">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjunsingh-7&theme=react-dark&area=true" width="400" alt="Activity Graph" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryancsegithub&theme=react-dark&area=true" width="400" alt="Activity Graph" />
         <br><b>Activity Graph</b>
       </td>
       <td align="center" style="padding:10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunsingh-7&theme=radical" width="400" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryancsegithub&theme=radical" width="400" alt="GitHub Streak" />
         <br><b>GitHub Streak</b>
       </td>
     </tr>
