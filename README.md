@@ -47,15 +47,7 @@ Always exploring Machine Learning, Deep Learning, and Generative AI.
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github) 
 ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=for-the-badge&logo=vercel) 
 
-## 🌟 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryancsegithub&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryancsegithub&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 
 ## 📊 Contributions & Activity
