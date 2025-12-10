@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Arjunsingh-7/Arjunsingh-7/main/Assets/coding.gif" alt="Coder GIF" width="600"/>
+  <img src="Coding Work From Home GIF by Domme Space (1).gif" alt="Coder GIF" width="600"/>
 </p>
 
 ## 👨‍💻 About Me
@@ -20,9 +20,9 @@ Always exploring Machine Learning, Deep Learning, and Generative AI.
 🚀 Currently working on: Waste Wizard – a smart IoT-based waste management system
 🌱 Learning: Cloud computing & backend development 
 
-🌐 *Portfolio:* [arjun-s-portfolio-site.vercel.app](https://arjun-s-portfolio-site.vercel.app/)  
-📧 *Email:* arjunsingh792002@gmail.com  
-💼 *LinkedIn:* [Arjun Singh](https://www.linkedin.com/in/arjun-singh-2519ab280/)  
+  
+📧 *Email:* aryansinghofficial98@gmail.com  
+💼 *LinkedIn:* [Aryan Singh](https://www.linkedin.com/in/aryan-singh-535b66246/)  
 
 
 ## 🚀 Skills & Technologies
@@ -81,7 +81,7 @@ Always exploring Machine Learning, Deep Learning, and Generative AI.
 
   <!-- Row 2: Full-width Contribution Calendar -->
   <div style="margin-top:20px;">
-    <img src="https://ghchart.rshah.org/Arjunsingh-7" width="820" alt="Contribution Calendar" />
+    <img src="https://ghchart.rshah.org/aryancsegithub" width="820" alt="Contribution Calendar" />
     <br><b>Contribution Calendar</b>
   </div>
 
@@ -89,6 +89,5 @@ Always exploring Machine Learning, Deep Learning, and Generative AI.
 
 ## 📫 Get in Touch
 
-•⁠  ⁠*Email:* arjunsingh792002@gmail.com  
-•⁠  ⁠*LinkedIn:* [Arjun Singh](https://www.linkedin.com/in/arjun-singh-2519ab280/)  
-•⁠  ⁠*Portfolio:* [arjun-s-portfolio-site.vercel.app](https://arjun-s-portfolio-site.vercel.app/)
+•⁠  ⁠*Email:* aryansinghofficial98@gmail.com  
+•⁠  ⁠*LinkedIn:* [Arjun Singh](https://www.linkedin.com/in/aryan-singh-535b66246/)  
