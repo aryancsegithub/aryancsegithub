@@ -9,8 +9,8 @@
 </p>
 
 ## 👨‍💻 About Me
-Welcome to my GitHub profile! I am  Arjun Singh — a B.Tech Computer Science student specializing in Artificial Intelligence and Data Science.
-Passionate about building innovative tech solutions that combine software engineering and AI.
+Welcome to my GitHub profile! I am  Aryan Singh — a B.Tech Computer Science student specializing in Artificial Intelligence and Data Science.
+Passionate about building innovative tech solutions that combines the AI Driven Technologies. .
 Skilled in Java, Python, React.js, and MySQL, with hands-on experience in IoT and web development projects.
 Always exploring Machine Learning, Deep Learning, and Generative AI.
 
