@@ -2,9 +2,6 @@
 <h1 align="center">Hi, I'm Aryan Singh 👋</h1>
 
 <!-- Typing SVG + GIF -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Arjunsingh-7/Arjunsingh-7/main/Assets/coding.gif.gif" alt="Coder GIF" width="600"/>
-</p>
 
 
 <p align="center">
