@@ -79,4 +79,4 @@ Always exploring Machine Learning, Deep Learning, and Generative AI.
 ## 📫 Get in Touch
 
 •⁠  ⁠*Email:* aryansinghofficial98@gmail.com  
-•⁠  ⁠*LinkedIn:* [Arjun Singh](https://www.linkedin.com/in/aryan-singh-535b66246/)  
+•⁠  ⁠*LinkedIn:* [Aryan Singh](https://www.linkedin.com/in/aryan-singh-535b66246/)  
